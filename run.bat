@@ -1,0 +1,2 @@
+python SmartCardFraud.py
+pause
